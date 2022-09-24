@@ -1,5 +1,0 @@
-
-// Write some tests
-
-test('', () => {
-});

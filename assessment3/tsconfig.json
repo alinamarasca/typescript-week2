@@ -1,7 +1,14 @@
 {
-    "compilerOptions": {},
-    "include": [
-      "**/*.test.ts"
-    ],
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "target": "es6",
+    // "module": "commonjs",
+    "removeComments": false,
+    "sourceMap": true,
+    "allowJs": true,
+    "esModuleInterop": true,
+    "strict": true,
+    // "outDir": "dist",
+    "noUnusedLocals": true
   }
-  
+}
